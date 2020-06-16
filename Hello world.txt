@@ -1,7 +1,7 @@
-print("Hello World.");
-print("Hello everybody.");
-print("Hello.");
-print("hello my dear friend.");
-print("Glad to see you.");
+print("Hello World.")
+print("Hello everybody.")
+print("Hello.")
+print("hello my dear friend.")
+print("Glad to see you.")
 
-print("How do you do?");
+print("How do you do?")
